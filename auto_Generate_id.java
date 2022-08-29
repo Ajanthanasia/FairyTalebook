@@ -1,4 +1,4 @@
-public class autogenerate 
+public class auto_Generate_id
 {
     static int no=0;
     public static void main(String args[])
